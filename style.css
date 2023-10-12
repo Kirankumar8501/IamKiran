@@ -8,6 +8,7 @@
     border:none;
     outline:none;
     font-family: 'Poppins',sans-serif;
+    -webkit-tap-highlight-color: transparent;
 }
 :root{
     --home-color: rgb(200,232,137);
