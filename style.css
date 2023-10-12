@@ -9,8 +9,8 @@
     outline:none;
     font-family: 'Poppins',sans-serif;
 }
-a:focus{
-    outline:none;
+*:focus{
+    outline:0;
 }
 :root{
     --home-color: rgb(200,232,137);
