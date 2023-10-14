@@ -9,9 +9,6 @@
     outline:none;
     font-family: 'Poppins',sans-serif;
 }
-*:focus{
-    outline:0;
-}
 :root{
     --home-color: rgb(200,232,137);
     --about-color: #CFEB99;
@@ -773,7 +770,7 @@ span{
     right:0;
     width: 100%;
     height:100%;
-    background: yellowgreen;
+    background: var(--home-color);
     z-index:98;
 }
 
